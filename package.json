@@ -1,0 +1,17 @@
+{
+  "name": "test-aio-windows",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@adobe/aio-sdk": "^5"
+  },
+  "devDependencies": {
+    "jest": "^29"
+  },
+  "scripts": {
+    "test": "echo no tests"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
