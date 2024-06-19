@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   deploy:
-    name: Deploy to Prod
+    name: Test aio cli on Windows
     runs-on: ${{ matrix.os }}
     strategy:
       max-parallel: 1
