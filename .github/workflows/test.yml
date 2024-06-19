@@ -1,4 +1,4 @@
-name: AIO App CI (Prod)
+name: Test aio cli on Windows
 
 on:
   push:
